@@ -177,7 +177,7 @@ else { ?>
         <footer class="footer">
           <div class="container-fluid">
             <div class="copyright ml-auto">
-              Copyright &copy; 2023 - <a href="#" class="text-secondary">Agus Purniawan</a>.
+              Copyright &copy; 2024 - <a href="https://www.facebook.com/profile.php?id=61555702467114" target="_blank" class="text-secondary">Agus Purniawan</a>.
             </div>
           </div>
         </footer>
