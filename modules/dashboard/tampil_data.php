@@ -16,7 +16,7 @@ else {
       echo '<div class="alert alert-notify alert-secondary alert-dismissible fade show" role="alert">
               <span data-notify="icon" class="fas fa-user-alt"></span> 
               <span data-notify="title" class="text-secondary">Hi! ' . $_SESSION['nama_user'] . '</span> 
-              <span data-notify="message">Selamat Datang di Aplikasi Persediaan Barang Gudang Material.</span>
+              <span data-notify="message">Selamat Datang di Aplikasi Persediaan Barang Gudang RS Sebening Kasih.</span>
               <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
