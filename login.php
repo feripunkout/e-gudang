@@ -10,7 +10,7 @@
   <meta name="author" content="Code Null" />
 
   <!-- Title -->
-  <title>Aplikasi Persediaan Barang Gudang RS Sebening Kasih</title>
+  <title>Gudang RS Sebening Kasih</title>
 
   <!-- Favicon icon -->
   <link rel="icon" href="assets/img/lg.png" type="image/x-icon" />
