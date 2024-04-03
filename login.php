@@ -13,7 +13,7 @@
   <title>Aplikasi Persediaan Barang Gudang RS Sebening Kasih</title>
 
   <!-- Favicon icon -->
-  <link rel="icon" href="assets/img/favicon.png" type="image/x-icon" />
+  <link rel="icon" href="assets/img/lg.png" type="image/x-icon" />
 
   <!-- Fonts and icons -->
   <script src="assets/js/plugin/webfont/webfont.min.js"></script>

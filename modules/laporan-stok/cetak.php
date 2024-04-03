@@ -30,7 +30,7 @@ else {
   // setting options
   $options = $dompdf->getOptions();
   $options->setIsRemoteEnabled(true); // aktifkan akses file untuk bisa mengakses file gambar dan CSS
-  $options->setChroot('C:\xampp\htdocs\gudang'); // tentukan path direktori aplikasi
+  $options->setChroot('C:\xampp73\htdocs\e-gudang'); // tentukan path direktori aplikasi
   $dompdf->setOptions($options);
 
   // mengecek filter data stok
